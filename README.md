@@ -87,4 +87,7 @@ ShoppingApp/
 This project is for educational purposes.
 
 ---
-Developed as part of the Mobile Programming course.
+Developed as part of the Hybrid mobile application development 
+
+---
+Special thanks to Mrs. Aneta Narwojsz for all her guidance and teachings throughout this semester. Your knowledge and support have been invaluable.
